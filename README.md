@@ -1,6 +1,4 @@
-# Welcome to Hacktoberfest! 
-
-**NOTE : This repository will not be accepting any pull requests for now, visit us again at the start of October, when the contributions are marked for Hacktoberfest. Thanks for contributing to Open Source!**
+# Welcome to Hacktoberfest 2020 ! 
 
 <p align="center">
     <img src="assets/hacktober-fest-logo.svg">
@@ -12,7 +10,7 @@ Happy Hacking!
 If you're a beginner and you've come looking for your first contribution, we are here to help.\
 We've provided the instructions for you to get started with contributing to Open Source. Scroll down for more info.
 
-## To get started with Hacktoberfest
+## To get started with Hacktoberfest 2020
 ### 1. Register yourself for Hacktoberfest 2020
 
 <p align="center">
